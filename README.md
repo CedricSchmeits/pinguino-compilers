@@ -1,4 +1,4 @@
 pinguino-compilers
 ==================
 
-SDCC and GCC compilers for Pinguino.
+SDCC-pic16 and GCC-mips-elf compilers for Pinguino.
