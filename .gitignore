@@ -1,0 +1,10 @@
+# Build process
+build/
+sources/
+log/
+dpkg/
+
+# Script
+build-sdcc.sh
+build-gcc.sh
+
