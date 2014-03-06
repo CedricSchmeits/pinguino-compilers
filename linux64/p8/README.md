@@ -1,4 +1,4 @@
-<b>SDCC-pic16 toolchain<b>
+<b>pinguino-linux64-sdcc-mpic16 toolchain<b>
 
 SDCC : pic16 3.3.2 #8938 (Mar  6 2014) (Linux)
 ===========

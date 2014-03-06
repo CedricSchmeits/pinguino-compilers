@@ -1,4 +1,4 @@
-<b>SDCC-pic16 toolchain<b>
+<b>pinguino-win32-sdcc-mpic16 toolchain<b>
 ===========
   * author  : rblanchot@gmail.com
   * script  : build-sdcc.sh
